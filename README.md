@@ -1,2 +1,2 @@
 # Excel_Project-Data_analytics
-My Project Demonstrates My Excel Skills
+Each of the two projects is documented separately with its own README file for better clarity and organization
